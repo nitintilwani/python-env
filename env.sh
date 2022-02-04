@@ -8,5 +8,5 @@ then
 
 
 else
-	echo "This is not a directory"
+	/home/nitin/pythonjenkins/bin/python3 a.py
 fi
