@@ -10,7 +10,7 @@ then
 # else
 # 	/home/nitin/pythonjenkins/bin/python3 a.py
 fi
-/home/nitin/pythonjenkins/bin/pip3 install -r requirements.txt
-	/home/nitin/pythonjenkins/bin/python3 a.py
+sudo /home/nitin/pythonjenkins/bin/pip3 install -r requirements.txt
+	sudo /home/nitin/pythonjenkins/bin/python3 a.py
 	
 
